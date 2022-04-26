@@ -1,4 +1,4 @@
-# END-497-Line-Balancing-with-Heuristic-Algorithm
+# END 497 Line Balancing with Heuristic Algorithm
 
 Problem Definition: In a electronic card producer company, there are lots of defective product and low production line efficiency. Because, there are no order assignment to lines, no operator assginment to produce the cards with a rational method. 
 
